@@ -1,5 +1,6 @@
 <?php
   include 'inc/header.php';
+
 ?>
 
 <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
